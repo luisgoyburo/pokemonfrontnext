@@ -20,6 +20,8 @@ To access the live demo , this is the link:
 
 http://nextfront.apercloud.com
 
+The live demo is located in a vultr server.
+A subdomain "nextfront" has been created within the apercloud.com domain. A site has been enabled on the nginx proxy server that routes the requests to the sails-nodejs server. The nodejs server is managed through the PM2 tool.
 
 
 
