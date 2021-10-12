@@ -8,7 +8,7 @@ This App consume a Restful API of a Pokemon Database
 
 The access point is:
 
-http://sailsback.apercloud.com
+http://sailsback.apercloud.com/pokemons/
 
 This App uses the Next.js (React) framework, Tailwindcss to process styles and Axios to fetch the Restful API.
 
